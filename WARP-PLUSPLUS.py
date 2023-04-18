@@ -6,7 +6,7 @@ import string
 import time
 import os
 import sys
-os.system("title WARP-PLUS-CLOUDFLARE By ALIILAPRO")
+os.system("title windows suck btw")
 os.system('cls' if os.name == 'nt' else 'clear')
 print('============================================================\n'
 '                 by damar coder anjay slebew     \n'
